@@ -20,7 +20,6 @@ This is a normal paragraph:
     4. y2mate:슈카 유튜브 시작 비지엠
 end code block
 
-<<<<<<< .merge_file_IrvwUK
 | MotionElement | Summer Solsti | test_BGM         |
 | :------------ | :-----------: | ---------------: |
 | First row     | Data          | Very long data entry |
@@ -42,7 +41,7 @@ This is a normal paragraph:
 
     4.리그오브레전드 : 리그 오브 레전드는 세계 최고의 MOBA(Multiplayer Online Battle Arena) 게임입니다. 끝없이 이어지는 실시간 전투와 협동을 통한 팀플레이, RTS와 RPG를 하나의 게임에서 동시에 즐길 수 있는 새로운 장르의 온라인 게임입니다. 
 =======
-<<<<<<< HEAD
+
 ###### 자기소개 감상평
 *김준호
 취미는 여행, 사진찍기, 아침 커피 내리기다. 목표는 빅데이터 분석 서비스 개발이다.
@@ -61,6 +60,3 @@ This is a normal paragraph:
     3. HMFMPYUN: 손글씨같은 폰트
     4. 나눔손글씨 꽃내음: 개성있는 폰트
 end code block
->>>>>>> 9886bfc2014af3d4e9c4b9dc530e27492c66458f
->>>>>>> 8184f7286a6b740c71070d1826453cc9e51de99e
->>>>>>> .merge_file_wLAGIq
