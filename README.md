@@ -18,7 +18,6 @@ This is a normal paragraph:
     2. Summer Solstice on the June: 오른쪽에서 왼쪽 방향으로 이어지는 그라데이션 사운드
     3. test_BGM: 몽환적인 느낌
     4. y2mate:슈카 유튜브 시작 비지엠
-end code block
 
 | MotionElement | Summer Solsti | test_BGM         |
 | :------------ | :-----------: | ---------------: |
@@ -40,7 +39,7 @@ This is a normal paragraph:
     3. 웃고있는남자 : 활짝웃는 남자의 모습이 긍정적이고 밝은 에너지를 준다.
 
     4.리그오브레전드 : 리그 오브 레전드는 세계 최고의 MOBA(Multiplayer Online Battle Arena) 게임입니다. 끝없이 이어지는 실시간 전투와 협동을 통한 팀플레이, RTS와 RPG를 하나의 게임에서 동시에 즐길 수 있는 새로운 장르의 온라인 게임입니다. 
-=======
+
 
 ###### 자기소개 감상평
 *김준호
@@ -51,12 +50,12 @@ This is a normal paragraph:
 취미는 음악듣기, 전시회보기이다. 목표는 수업에 집중해서 커리어에 도움되기다.
 *유영일
 취미는 유튜브 시청과 게임하기이다. 목표는 취업이다.
-=======
+
 ###### 폰트 감상평
 This is a normal paragraph:
     
     1. Cafe24Classictype: 귀여운 폰트
     2. DalseoDarling: 세련된 폰트
     3. HMFMPYUN: 손글씨같은 폰트
-    4. 나눔손글씨 꽃내음: 개성있는 폰트
+ 
 end code block
