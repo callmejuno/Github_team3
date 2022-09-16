@@ -14,11 +14,25 @@
 ###### 음원 감상평
 This is a normal paragraph:
     
-    1. 20119974_MotionElement: 헤비한 사운드가 심금을 울렸다
+    1. MotionElement: 헤비한 사운드가 심금을 울렸다
     2. Summer Solstice on the June: 오른쪽에서 왼쪽 방향으로 이어지는 그라데이션 사운드
     3. test_BGM: 몽환적인 느낌
     4. y2mate:슈카 유튜브 시작 비지엠
 
+<<<<<<< HEAD
+=======
+<<<<<<< .merge_file_IrvwUK
+| MotionElement | Summer Solsti | test_BGM         |
+| :------------ | :-----------: | ---------------: |
+| First row     | Data          | Very long data entry |
+| Second row    | **Cell**      | *Cell*               |
+| Third row     | Cell that spans across two columns  ||
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=evernote.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+>>>>>>> 97e79fe60ee2c5f9f14ad006aceee16d23a40aa3
 ###### 이미지 
 This is a normal paragraph:
 
@@ -48,4 +62,11 @@ This is a normal paragraph:
     2. DalseoDarling: 세련된 폰트
     3. HMFMPYUN: 손글씨같은 폰트
     4. 나눔손글씨 꽃내음: 개성있는 폰트
+<<<<<<< HEAD
  
+=======
+end code block
+>>>>>>> 9886bfc2014af3d4e9c4b9dc530e27492c66458f
+>>>>>>> 8184f7286a6b740c71070d1826453cc9e51de99e
+>>>>>>> .merge_file_wLAGIq
+>>>>>>> 97e79fe60ee2c5f9f14ad006aceee16d23a40aa3
