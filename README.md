@@ -20,6 +20,7 @@ This is a normal paragraph:
     4. y2mate:슈카 유튜브 시작 비지엠
 end code block
 
+<<<<<<< HEAD
 ###### 자기소개 감상평
 *김준호
 취미는 여행, 사진찍기, 아침 커피 내리기다. 목표는 빅데이터 분석 서비스 개발이다.
@@ -29,3 +30,13 @@ end code block
 취미는 음악듣기, 전시회보기이다. 목표는 수업에 집중해서 커리어에 도움되기다.
 *유영일
 취미는 유튜브 시청과 게임하기이다. 목표는 취업이다.
+=======
+###### 폰트 감상평
+This is a normal paragraph:
+    
+    1. Cafe24Classictype: 귀여운 폰트
+    2. DalseoDarling: 세련된 폰트
+    3. HMFMPYUN: 손글씨같은 폰트
+    4. 나눔손글씨 꽃내음: 개성있는 폰트
+end code block
+>>>>>>> 9886bfc2014af3d4e9c4b9dc530e27492c66458f
