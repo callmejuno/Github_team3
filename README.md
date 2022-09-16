@@ -1,16 +1,3 @@
-# Github_team3
-서혁준 안녕하세요
-송예림 안녕하세요
-
-# 유영일 안녕하세요
-
-서혁준 서혁준 서혁준 서혁준  안녕하세요 안녕하세요
-
-송예림 송예림 안녕하세요
-
-# 서혁준 안녕하세요 ㅎㅇㅎㅇ ㅎㅇㅎㅇ ㅎㅇㅎㅇ
-# 김준호 안녕하세요
-
 ###### 음원 감상평
 This is a normal paragraph:
     
@@ -19,19 +6,6 @@ This is a normal paragraph:
     3. test_BGM: 몽환적인 느낌
     4. y2mate:슈카 유튜브 시작 비지엠
 
-<<<<<<< HEAD
-<<<<<<< .merge_file_IrvwUK
-=======
->>>>>>> 868968813172bb07e93bbc5efeaf6ec38791178b
-| MotionElement | Summer Solsti | test_BGM         |
-| :------------ | :-----------: | ---------------: |
-| First row     | Data          | Very long data entry |
-| Second row    | **Cell**      | *Cell*               |
-| Third row     | Cell that spans across two columns  ||
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=visualstudiocode.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=evernote.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ###### 이미지 
 This is a normal paragraph:
@@ -46,7 +20,6 @@ This is a normal paragraph:
 
 
 ###### 자기소개 감상평
-<<<<<<< HEAD
 This is a normal paragraph:
 
     *김준호
@@ -57,16 +30,6 @@ This is a normal paragraph:
     취미는 음악듣기, 전시회보기이다. 목표는 수업에 집중해서 커리어에 도움되기다.
     *유영일
     취미는 유튜브 시청과 게임하기이다. 목표는 취업이다.
-=======
-*김준호
-취미는 여행, 사진찍기, 아침 커피 내리기다. 목표는 빅데이터 분석 서비스 개발이다.
-*서혁준
-취미는 축구, 음악듣기, 게임이다. 목표는 수업에 뒤쳐지지 않고 열심히 복습하기다.
-*송예림
-취미는 음악듣기, 전시회보기이다. 목표는 수업에 집중해서 커리어에 도움되기다.
-*유영일
-취미는 유튜브 시청과 게임하기이다. 목표는 취업이다.
->>>>>>> 868968813172bb07e93bbc5efeaf6ec38791178b
 
 ###### 폰트 감상평
 This is a normal paragraph:
@@ -74,10 +37,6 @@ This is a normal paragraph:
     1. Cafe24Classictype: 귀여운 폰트
     2. DalseoDarling: 세련된 폰트
     3. HMFMPYUN: 손글씨같은 폰트
-<<<<<<< HEAD
     4. 나눔손글씨 꽃내음: 개성있는 폰트
 
-=======
- 
-end code block
->>>>>>> 868968813172bb07e93bbc5efeaf6ec38791178b
+
